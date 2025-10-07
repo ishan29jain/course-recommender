@@ -27,11 +27,11 @@ It uses **Natural Language Processing (NLP)** techniques to measure similarity b
 This project is organized as follows:
 
 course-recommender/
-├── app.py                     # Streamlit dashboard for the course recommender system (Main app)
-├── Course_Recommender_Colab.ipynb # Jupyter notebook for model building and data analysis
-├── requirements.txt           # List of required Python packages and their versions
-├── udemy_course_data.csv      # The core dataset used for training and recommendations
-└── README.md                  # Project documentation (this file)
+- app.py                     # Streamlit dashboard for the course recommender system (Main app)
+- Course_Recommender_Colab.ipynb # Jupyter notebook for model building and data analysis
+- equirements.txt           # List of required Python packages and their versions
+- udemy_course_data.csv      # The core dataset used for training and recommendations
+- README.md                  # Project documentation (this file)
 
 
 ---
